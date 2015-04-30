@@ -10,8 +10,8 @@
 1) Clone this repo
 
 ```
-git clone git@github.com:cognitect/clojure-lab.git
-cd clojure-lab
+git clone git@github.com:ClojureBridge/intermediate-clojure.git
+cd intermediate-clojure
 ```
 
 2) Start the gorilla repl server 
