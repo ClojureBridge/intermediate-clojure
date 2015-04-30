@@ -1,6 +1,6 @@
 (defproject clojure-lab "0.1.0-SNAPSHOT"
   :description "Interactive materials for learning Clojure"
-  :url "https://github.com/cognitect/clojure-lab"
+  :url "https://github.com/ClojureBridge/intermediate-clojure"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :plugins [[lein-gorilla "0.3.5-SNAPSHOT"]]
